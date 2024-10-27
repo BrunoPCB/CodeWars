@@ -1,5 +1,4 @@
-from pickle import PROTO
-
+# Exercise: https://www.codewars.com/kata/65ba420888906c1f86e1e680
 
 def collinearity(vector_x_1, vector_x_2, vector_y_1, vector_y_2):
     vector_1 = vector_x_1 * vector_y_2
